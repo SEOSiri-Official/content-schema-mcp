@@ -1,6 +1,3 @@
----
-
-```yaml
 name: Content Schema MCP Test Suite
 on:
   push:
