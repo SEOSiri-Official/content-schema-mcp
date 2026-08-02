@@ -5,7 +5,7 @@ Repository = "https://github.com/SEOSiri-Official/content-schema-mcp.git"
 
 [project]
 name = "seosiri-content-schema-mcp"
-version = "1.0.0"
+version = "1.0.1"
 description = "A sovereign, local-first MCP server for automated Schema.org JSON-LD generation, GA4 metric validation, llm.txt auditing, and content stickiness analytics."
 readme = "README.md"
 requires-python = ">=3.10"
